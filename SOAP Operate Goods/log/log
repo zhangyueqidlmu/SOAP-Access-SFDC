@@ -1,0 +1,349 @@
+2016-12-13 14:32:41 INFO  [main] goods.utilities.BaseConfig.<init>(29) - Load src\BaseConf.properties
+2016-12-13 14:32:41 INFO  [main] goods.schedule.QuartzTask.main(30) - Service started!
+2016-12-13 14:32:41 INFO  [main] org.quartz.impl.StdSchedulerFactory.instantiate(1172) - Using default implementation for ThreadExecutor
+2016-12-13 14:32:41 INFO  [main] org.quartz.simpl.SimpleThreadPool.initialize(268) - Job execution threads will use class loader of thread: main
+2016-12-13 14:32:41 INFO  [main] org.quartz.core.SchedulerSignalerImpl.<init>(61) - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2016-12-13 14:32:41 INFO  [main] org.quartz.core.QuartzScheduler.<init>(240) - Quartz Scheduler v.2.2.3 created.
+2016-12-13 14:32:41 INFO  [main] org.quartz.simpl.RAMJobStore.initialize(155) - RAMJobStore initialized.
+2016-12-13 14:32:41 INFO  [main] org.quartz.core.QuartzScheduler.initialize(305) - Scheduler meta-data: Quartz Scheduler (v2.2.3) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2016-12-13 14:32:41 INFO  [main] org.quartz.impl.StdSchedulerFactory.instantiate(1327) - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2016-12-13 14:32:41 INFO  [main] org.quartz.impl.StdSchedulerFactory.instantiate(1331) - Quartz scheduler version: 2.2.3
+2016-12-13 14:32:41 INFO  [main] goods.schedule.QuartzTask.main(43) - Goods started!
+2016-12-13 14:32:41 INFO  [main] goods.schedule.QuartzTask.main(53) - SFDCSession Job started!
+2016-12-13 14:32:41 INFO  [main] org.quartz.core.QuartzScheduler.start(575) - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2016-12-13 14:32:41 INFO  [main] goods.schedule.QuartzTask.main(57) - Scheduler start
+2016-12-13 14:32:41 INFO  [main] goods.schedule.QuartzTask.main(61) - Service completed!
+2016-12-13 14:32:41 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:33:06 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:33:31 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:34:00 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:34:23 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:34:50 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:35:19 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:35:43 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:36:07 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:36:37 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:37:00 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:37:38 INFO  [main] goods.utilities.BaseConfig.<init>(29) - Load src\BaseConf.properties
+2016-12-13 14:37:38 INFO  [main] goods.schedule.QuartzTask.main(30) - Service started!
+2016-12-13 14:37:38 INFO  [main] org.quartz.impl.StdSchedulerFactory.instantiate(1172) - Using default implementation for ThreadExecutor
+2016-12-13 14:37:38 INFO  [main] org.quartz.simpl.SimpleThreadPool.initialize(268) - Job execution threads will use class loader of thread: main
+2016-12-13 14:37:38 INFO  [main] org.quartz.core.SchedulerSignalerImpl.<init>(61) - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2016-12-13 14:37:38 INFO  [main] org.quartz.core.QuartzScheduler.<init>(240) - Quartz Scheduler v.2.2.3 created.
+2016-12-13 14:37:38 INFO  [main] org.quartz.simpl.RAMJobStore.initialize(155) - RAMJobStore initialized.
+2016-12-13 14:37:38 INFO  [main] org.quartz.core.QuartzScheduler.initialize(305) - Scheduler meta-data: Quartz Scheduler (v2.2.3) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2016-12-13 14:37:38 INFO  [main] org.quartz.impl.StdSchedulerFactory.instantiate(1327) - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2016-12-13 14:37:38 INFO  [main] org.quartz.impl.StdSchedulerFactory.instantiate(1331) - Quartz scheduler version: 2.2.3
+2016-12-13 14:37:38 ERROR [main] goods.schedule.QuartzTask.main(59) - CronExpression '0 0 40 * * ?' is invalid.
+2016-12-13 14:37:38 INFO  [main] goods.schedule.QuartzTask.main(61) - Service completed!
+2016-12-13 14:37:58 INFO  [main] goods.utilities.BaseConfig.<init>(29) - Load src\BaseConf.properties
+2016-12-13 14:37:58 INFO  [main] goods.schedule.QuartzTask.main(30) - Service started!
+2016-12-13 14:37:58 INFO  [main] org.quartz.impl.StdSchedulerFactory.instantiate(1172) - Using default implementation for ThreadExecutor
+2016-12-13 14:37:58 INFO  [main] org.quartz.simpl.SimpleThreadPool.initialize(268) - Job execution threads will use class loader of thread: main
+2016-12-13 14:37:58 INFO  [main] org.quartz.core.SchedulerSignalerImpl.<init>(61) - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2016-12-13 14:37:58 INFO  [main] org.quartz.core.QuartzScheduler.<init>(240) - Quartz Scheduler v.2.2.3 created.
+2016-12-13 14:37:58 INFO  [main] org.quartz.simpl.RAMJobStore.initialize(155) - RAMJobStore initialized.
+2016-12-13 14:37:58 INFO  [main] org.quartz.core.QuartzScheduler.initialize(305) - Scheduler meta-data: Quartz Scheduler (v2.2.3) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2016-12-13 14:37:58 INFO  [main] org.quartz.impl.StdSchedulerFactory.instantiate(1327) - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2016-12-13 14:37:58 INFO  [main] org.quartz.impl.StdSchedulerFactory.instantiate(1331) - Quartz scheduler version: 2.2.3
+2016-12-13 14:37:58 INFO  [main] goods.schedule.QuartzTask.main(43) - Goods started!
+2016-12-13 14:37:58 INFO  [main] goods.schedule.QuartzTask.main(53) - SFDCSession Job started!
+2016-12-13 14:37:58 INFO  [main] org.quartz.core.QuartzScheduler.start(575) - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2016-12-13 14:37:58 INFO  [main] goods.schedule.QuartzTask.main(57) - Scheduler start
+2016-12-13 14:37:58 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:37:58 INFO  [main] goods.schedule.QuartzTask.main(61) - Service completed!
+2016-12-13 14:38:26 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:38:50 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:39:15 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:39:41 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 1 triggers
+2016-12-13 14:40:00 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.simpl.PropertySettingJobFactory.newJob(51) - Producing instance of Job 'group1.Goods Job', class=goods.handler.GoodsHandler
+2016-12-13 14:40:00 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:40:00 DEBUG [DefaultQuartzScheduler_Worker-1] org.quartz.core.JobRunShell.run(201) - Calling execute on job group1.Goods Job
+2016-12-13 14:40:00 INFO  [DefaultQuartzScheduler_Worker-1] goods.handler.GoodsHandler.execute(17) - GoodsHandler started!
+2016-12-13 14:40:00 INFO  [DefaultQuartzScheduler_Worker-1] goods.utilities.BaseConfig.<init>(29) - Load src\SFDCConf.properties
+2016-12-13 14:40:00 WARN  [DefaultQuartzScheduler_Worker-1] goods.service.GoodsService.execute(42) - Can not find Goods from csv!
+2016-12-13 14:40:00 INFO  [DefaultQuartzScheduler_Worker-1] goods.handler.GoodsHandler.execute(20) - GoodsHandler Completed!
+2016-12-13 14:40:26 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:40:53 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:41:21 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:42:08 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:42:34 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:43:00 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:44:25 INFO  [main] goods.utilities.BaseConfig.<init>(29) - Load src\BaseConf.properties
+2016-12-13 14:44:25 INFO  [main] goods.schedule.QuartzTask.main(30) - Service started!
+2016-12-13 14:44:25 INFO  [main] org.quartz.impl.StdSchedulerFactory.instantiate(1172) - Using default implementation for ThreadExecutor
+2016-12-13 14:44:25 INFO  [main] org.quartz.simpl.SimpleThreadPool.initialize(268) - Job execution threads will use class loader of thread: main
+2016-12-13 14:44:25 INFO  [main] org.quartz.core.SchedulerSignalerImpl.<init>(61) - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2016-12-13 14:44:25 INFO  [main] org.quartz.core.QuartzScheduler.<init>(240) - Quartz Scheduler v.2.2.3 created.
+2016-12-13 14:44:25 INFO  [main] org.quartz.simpl.RAMJobStore.initialize(155) - RAMJobStore initialized.
+2016-12-13 14:44:25 INFO  [main] org.quartz.core.QuartzScheduler.initialize(305) - Scheduler meta-data: Quartz Scheduler (v2.2.3) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2016-12-13 14:44:25 INFO  [main] org.quartz.impl.StdSchedulerFactory.instantiate(1327) - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2016-12-13 14:44:25 INFO  [main] org.quartz.impl.StdSchedulerFactory.instantiate(1331) - Quartz scheduler version: 2.2.3
+2016-12-13 14:44:25 INFO  [main] goods.schedule.QuartzTask.main(43) - Goods started!
+2016-12-13 14:44:25 INFO  [main] goods.schedule.QuartzTask.main(53) - SFDCSession Job started!
+2016-12-13 14:44:25 INFO  [main] org.quartz.core.QuartzScheduler.start(575) - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2016-12-13 14:44:25 INFO  [main] goods.schedule.QuartzTask.main(57) - Scheduler start
+2016-12-13 14:44:25 INFO  [main] goods.schedule.QuartzTask.main(61) - Service completed!
+2016-12-13 14:44:25 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:44:53 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:45:18 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:45:48 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 1 triggers
+2016-12-13 14:46:00 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.simpl.PropertySettingJobFactory.newJob(51) - Producing instance of Job 'group1.Goods Job', class=goods.handler.GoodsHandler
+2016-12-13 14:46:00 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:46:00 DEBUG [DefaultQuartzScheduler_Worker-1] org.quartz.core.JobRunShell.run(201) - Calling execute on job group1.Goods Job
+2016-12-13 14:46:00 INFO  [DefaultQuartzScheduler_Worker-1] goods.handler.GoodsHandler.execute(17) - GoodsHandler started!
+2016-12-13 14:46:00 INFO  [DefaultQuartzScheduler_Worker-1] goods.utilities.BaseConfig.<init>(29) - Load src\SFDCConf.properties
+2016-12-13 14:46:00 INFO  [DefaultQuartzScheduler_Worker-1] goods.service.GoodsService.execute(45) - fetch 11records from csv
+2016-12-13 14:46:00 ERROR [DefaultQuartzScheduler_Worker-1] goods.service.GoodsService.execute(79) - Class GoodsService, Method excute! java.lang.NumberFormatException: For input string: "GoodsPrice"
+2016-12-13 14:46:00 ERROR [DefaultQuartzScheduler_Worker-1] goods.service.EmailMessageService.sendEmail(30) - Class EmailMessageService, Method sendEmail! null
+2016-12-13 14:46:00 ERROR [DefaultQuartzScheduler_Worker-1] goods.handler.GoodsHandler.execute(22) - GoodsHandler failed!For input string: "GoodsPrice"
+2016-12-13 14:46:23 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:46:48 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:47:15 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:47:45 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:48:11 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:48:36 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:49:05 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 14:49:34 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:01:07 INFO  [main] goods.utilities.BaseConfig.<init>(29) - Load src\BaseConf.properties
+2016-12-13 15:01:07 INFO  [main] goods.schedule.QuartzTask.main(30) - Service started!
+2016-12-13 15:01:07 INFO  [main] org.quartz.impl.StdSchedulerFactory.instantiate(1172) - Using default implementation for ThreadExecutor
+2016-12-13 15:01:07 INFO  [main] org.quartz.simpl.SimpleThreadPool.initialize(268) - Job execution threads will use class loader of thread: main
+2016-12-13 15:01:07 INFO  [main] org.quartz.core.SchedulerSignalerImpl.<init>(61) - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2016-12-13 15:01:07 INFO  [main] org.quartz.core.QuartzScheduler.<init>(240) - Quartz Scheduler v.2.2.3 created.
+2016-12-13 15:01:07 INFO  [main] org.quartz.simpl.RAMJobStore.initialize(155) - RAMJobStore initialized.
+2016-12-13 15:01:07 INFO  [main] org.quartz.core.QuartzScheduler.initialize(305) - Scheduler meta-data: Quartz Scheduler (v2.2.3) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2016-12-13 15:01:07 INFO  [main] org.quartz.impl.StdSchedulerFactory.instantiate(1327) - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2016-12-13 15:01:07 INFO  [main] org.quartz.impl.StdSchedulerFactory.instantiate(1331) - Quartz scheduler version: 2.2.3
+2016-12-13 15:01:07 INFO  [main] goods.schedule.QuartzTask.main(43) - Goods started!
+2016-12-13 15:01:07 INFO  [main] goods.schedule.QuartzTask.main(53) - SFDCSession Job started!
+2016-12-13 15:01:07 INFO  [main] org.quartz.core.QuartzScheduler.start(575) - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2016-12-13 15:01:07 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:01:07 INFO  [main] goods.schedule.QuartzTask.main(57) - Scheduler start
+2016-12-13 15:01:07 INFO  [main] goods.schedule.QuartzTask.main(61) - Service completed!
+2016-12-13 15:01:31 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:01:57 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:02:26 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:02:52 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 1 triggers
+2016-12-13 15:03:00 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.simpl.PropertySettingJobFactory.newJob(51) - Producing instance of Job 'group1.Goods Job', class=goods.handler.GoodsHandler
+2016-12-13 15:03:00 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:03:00 DEBUG [DefaultQuartzScheduler_Worker-1] org.quartz.core.JobRunShell.run(201) - Calling execute on job group1.Goods Job
+2016-12-13 15:03:00 INFO  [DefaultQuartzScheduler_Worker-1] goods.handler.GoodsHandler.execute(17) - GoodsHandler started!
+2016-12-13 15:03:00 INFO  [DefaultQuartzScheduler_Worker-1] goods.utilities.BaseConfig.<init>(29) - Load src\SFDCConf.properties
+2016-12-13 15:03:00 INFO  [DefaultQuartzScheduler_Worker-1] goods.service.GoodsService.execute(45) - fetch 11records from csv
+2016-12-13 15:03:24 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:03:54 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:04:23 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:04:49 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:05:12 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:05:39 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:06:05 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:06:32 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:06:55 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:07:19 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:08:24 INFO  [main] goods.utilities.BaseConfig.<init>(29) - Load src\BaseConf.properties
+2016-12-13 15:08:24 INFO  [main] goods.schedule.QuartzTask.main(30) - Service started!
+2016-12-13 15:08:24 INFO  [main] org.quartz.impl.StdSchedulerFactory.instantiate(1172) - Using default implementation for ThreadExecutor
+2016-12-13 15:08:24 INFO  [main] org.quartz.simpl.SimpleThreadPool.initialize(268) - Job execution threads will use class loader of thread: main
+2016-12-13 15:08:24 INFO  [main] org.quartz.core.SchedulerSignalerImpl.<init>(61) - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2016-12-13 15:08:24 INFO  [main] org.quartz.core.QuartzScheduler.<init>(240) - Quartz Scheduler v.2.2.3 created.
+2016-12-13 15:08:24 INFO  [main] org.quartz.simpl.RAMJobStore.initialize(155) - RAMJobStore initialized.
+2016-12-13 15:08:24 INFO  [main] org.quartz.core.QuartzScheduler.initialize(305) - Scheduler meta-data: Quartz Scheduler (v2.2.3) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2016-12-13 15:08:24 INFO  [main] org.quartz.impl.StdSchedulerFactory.instantiate(1327) - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2016-12-13 15:08:24 INFO  [main] org.quartz.impl.StdSchedulerFactory.instantiate(1331) - Quartz scheduler version: 2.2.3
+2016-12-13 15:08:24 INFO  [main] goods.schedule.QuartzTask.main(43) - Goods started!
+2016-12-13 15:08:24 INFO  [main] goods.schedule.QuartzTask.main(53) - SFDCSession Job started!
+2016-12-13 15:08:24 INFO  [main] org.quartz.core.QuartzScheduler.start(575) - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2016-12-13 15:08:24 INFO  [main] goods.schedule.QuartzTask.main(57) - Scheduler start
+2016-12-13 15:08:24 INFO  [main] goods.schedule.QuartzTask.main(61) - Service completed!
+2016-12-13 15:08:24 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:08:40 INFO  [main] goods.utilities.BaseConfig.<init>(29) - Load src\BaseConf.properties
+2016-12-13 15:08:40 INFO  [main] goods.schedule.QuartzTask.main(30) - Service started!
+2016-12-13 15:08:40 INFO  [main] org.quartz.impl.StdSchedulerFactory.instantiate(1172) - Using default implementation for ThreadExecutor
+2016-12-13 15:08:40 INFO  [main] org.quartz.simpl.SimpleThreadPool.initialize(268) - Job execution threads will use class loader of thread: main
+2016-12-13 15:08:40 INFO  [main] org.quartz.core.SchedulerSignalerImpl.<init>(61) - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2016-12-13 15:08:40 INFO  [main] org.quartz.core.QuartzScheduler.<init>(240) - Quartz Scheduler v.2.2.3 created.
+2016-12-13 15:08:40 INFO  [main] org.quartz.simpl.RAMJobStore.initialize(155) - RAMJobStore initialized.
+2016-12-13 15:08:40 INFO  [main] org.quartz.core.QuartzScheduler.initialize(305) - Scheduler meta-data: Quartz Scheduler (v2.2.3) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2016-12-13 15:08:40 INFO  [main] org.quartz.impl.StdSchedulerFactory.instantiate(1327) - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2016-12-13 15:08:40 INFO  [main] org.quartz.impl.StdSchedulerFactory.instantiate(1331) - Quartz scheduler version: 2.2.3
+2016-12-13 15:08:40 INFO  [main] goods.schedule.QuartzTask.main(43) - Goods started!
+2016-12-13 15:08:40 INFO  [main] goods.schedule.QuartzTask.main(53) - SFDCSession Job started!
+2016-12-13 15:08:40 INFO  [main] org.quartz.core.QuartzScheduler.start(575) - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2016-12-13 15:08:40 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:08:40 INFO  [main] goods.schedule.QuartzTask.main(57) - Scheduler start
+2016-12-13 15:08:40 INFO  [main] goods.schedule.QuartzTask.main(61) - Service completed!
+2016-12-13 15:09:09 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:09:37 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 1 triggers
+2016-12-13 15:10:00 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.simpl.PropertySettingJobFactory.newJob(51) - Producing instance of Job 'group1.Goods Job', class=goods.handler.GoodsHandler
+2016-12-13 15:10:00 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:10:00 DEBUG [DefaultQuartzScheduler_Worker-1] org.quartz.core.JobRunShell.run(201) - Calling execute on job group1.Goods Job
+2016-12-13 15:10:00 INFO  [DefaultQuartzScheduler_Worker-1] goods.handler.GoodsHandler.execute(17) - GoodsHandler started!
+2016-12-13 15:10:00 INFO  [DefaultQuartzScheduler_Worker-1] goods.utilities.BaseConfig.<init>(29) - Load src\SFDCConf.properties
+2016-12-13 15:10:00 WARN  [DefaultQuartzScheduler_Worker-1] goods.service.GoodsService.execute(42) - Can not find Goods from csv!
+2016-12-13 15:10:00 INFO  [DefaultQuartzScheduler_Worker-1] goods.handler.GoodsHandler.execute(20) - GoodsHandler Completed!
+2016-12-13 15:10:26 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:10:55 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:11:24 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:11:50 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:12:16 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:12:43 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:13:12 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:13:35 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:14:00 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:14:42 INFO  [main] goods.utilities.BaseConfig.<init>(29) - Load src\BaseConf.properties
+2016-12-13 15:14:42 INFO  [main] goods.schedule.QuartzTask.main(30) - Service started!
+2016-12-13 15:14:43 INFO  [main] org.quartz.impl.StdSchedulerFactory.instantiate(1172) - Using default implementation for ThreadExecutor
+2016-12-13 15:14:43 INFO  [main] org.quartz.simpl.SimpleThreadPool.initialize(268) - Job execution threads will use class loader of thread: main
+2016-12-13 15:14:43 INFO  [main] org.quartz.core.SchedulerSignalerImpl.<init>(61) - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2016-12-13 15:14:43 INFO  [main] org.quartz.core.QuartzScheduler.<init>(240) - Quartz Scheduler v.2.2.3 created.
+2016-12-13 15:14:43 INFO  [main] org.quartz.simpl.RAMJobStore.initialize(155) - RAMJobStore initialized.
+2016-12-13 15:14:43 INFO  [main] org.quartz.core.QuartzScheduler.initialize(305) - Scheduler meta-data: Quartz Scheduler (v2.2.3) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2016-12-13 15:14:43 INFO  [main] org.quartz.impl.StdSchedulerFactory.instantiate(1327) - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2016-12-13 15:14:43 INFO  [main] org.quartz.impl.StdSchedulerFactory.instantiate(1331) - Quartz scheduler version: 2.2.3
+2016-12-13 15:14:43 INFO  [main] goods.schedule.QuartzTask.main(43) - Goods started!
+2016-12-13 15:14:43 INFO  [main] goods.schedule.QuartzTask.main(53) - SFDCSession Job started!
+2016-12-13 15:14:43 INFO  [main] org.quartz.core.QuartzScheduler.start(575) - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2016-12-13 15:14:43 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:14:43 INFO  [main] goods.schedule.QuartzTask.main(57) - Scheduler start
+2016-12-13 15:14:43 INFO  [main] goods.schedule.QuartzTask.main(61) - Service completed!
+2016-12-13 15:15:09 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:15:33 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 1 triggers
+2016-12-13 15:16:00 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.simpl.PropertySettingJobFactory.newJob(51) - Producing instance of Job 'group1.Goods Job', class=goods.handler.GoodsHandler
+2016-12-13 15:16:00 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:16:00 DEBUG [DefaultQuartzScheduler_Worker-1] org.quartz.core.JobRunShell.run(201) - Calling execute on job group1.Goods Job
+2016-12-13 15:16:00 INFO  [DefaultQuartzScheduler_Worker-1] goods.handler.GoodsHandler.execute(17) - GoodsHandler started!
+2016-12-13 15:16:00 INFO  [DefaultQuartzScheduler_Worker-1] goods.utilities.BaseConfig.<init>(29) - Load src\SFDCConf.properties
+2016-12-13 15:16:00 INFO  [DefaultQuartzScheduler_Worker-1] goods.service.GoodsService.execute(45) - fetch 11records from csv
+2016-12-13 15:16:00 INFO  [DefaultQuartzScheduler_Worker-1] goods.service.SFDCService.createSFDCConn(47) - Login SFDC start!
+2016-12-13 15:16:02 INFO  [DefaultQuartzScheduler_Worker-1] goods.service.SFDCService.createSFDCConn(49) - Login SFDC end!
+2016-12-13 15:16:05 INFO  [DefaultQuartzScheduler_Worker-1] goods.service.GoodsService.execute(67) - ID:a052800000Ejg1vAAB
+2016-12-13 15:16:05 INFO  [DefaultQuartzScheduler_Worker-1] goods.service.GoodsService.execute(67) - ID:a052800000Ejg1wAAB
+2016-12-13 15:16:05 INFO  [DefaultQuartzScheduler_Worker-1] goods.service.GoodsService.execute(67) - ID:a052800000Ejg1xAAB
+2016-12-13 15:16:05 INFO  [DefaultQuartzScheduler_Worker-1] goods.service.GoodsService.execute(67) - ID:a052800000Ejg1yAAB
+2016-12-13 15:16:05 INFO  [DefaultQuartzScheduler_Worker-1] goods.service.GoodsService.execute(67) - ID:a052800000Ejg1zAAB
+2016-12-13 15:16:05 INFO  [DefaultQuartzScheduler_Worker-1] goods.service.GoodsService.execute(67) - ID:a052800000Ejg20AAB
+2016-12-13 15:16:05 INFO  [DefaultQuartzScheduler_Worker-1] goods.service.GoodsService.execute(67) - ID:a052800000Ejg21AAB
+2016-12-13 15:16:05 INFO  [DefaultQuartzScheduler_Worker-1] goods.service.GoodsService.execute(67) - ID:a052800000Ejg22AAB
+2016-12-13 15:16:05 INFO  [DefaultQuartzScheduler_Worker-1] goods.service.GoodsService.execute(67) - ID:a052800000Ejg23AAB
+2016-12-13 15:16:05 INFO  [DefaultQuartzScheduler_Worker-1] goods.service.GoodsService.execute(67) - ID:a052800000Ejg24AAB
+2016-12-13 15:16:05 INFO  [DefaultQuartzScheduler_Worker-1] goods.service.SFDCService.closeSFDCConn(62) - Logout SFDC start!
+2016-12-13 15:16:05 INFO  [DefaultQuartzScheduler_Worker-1] goods.service.SFDCService.closeSFDCConn(67) - Logout SFDC end!
+2016-12-13 15:16:05 INFO  [DefaultQuartzScheduler_Worker-1] goods.handler.GoodsHandler.execute(20) - GoodsHandler Completed!
+2016-12-13 15:16:29 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:16:53 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:17:17 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:17:41 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:18:05 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:18:33 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:19:00 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:19:25 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:19:51 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:20:19 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:20:46 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:21:12 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:21:38 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:22:07 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:22:30 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:22:57 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:23:20 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:23:50 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:24:19 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:24:48 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:25:17 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:25:41 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:26:11 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:26:37 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:27:05 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:27:31 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:27:57 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:28:21 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:28:46 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:29:09 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:29:36 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 1 triggers
+2016-12-13 15:30:00 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.simpl.PropertySettingJobFactory.newJob(51) - Producing instance of Job 'group2.SFDCSession Job', class=goods.handler.SFDCHandler
+2016-12-13 15:30:00 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:30:00 DEBUG [DefaultQuartzScheduler_Worker-2] org.quartz.core.JobRunShell.run(201) - Calling execute on job group2.SFDCSession Job
+2016-12-13 15:30:00 INFO  [DefaultQuartzScheduler_Worker-2] goods.handler.SFDCHandler.execute(21) - SFDCHandler started!
+2016-12-13 15:30:00 INFO  [DefaultQuartzScheduler_Worker-2] goods.utilities.BaseConfig.<init>(29) - Load src\SFDCConf.properties
+2016-12-13 15:30:00 INFO  [DefaultQuartzScheduler_Worker-2] goods.service.SFDCService.createSFDCConn(47) - Login SFDC start!
+2016-12-13 15:30:00 INFO  [DefaultQuartzScheduler_Worker-2] goods.service.SFDCService.createSFDCConn(49) - Login SFDC end!
+2016-12-13 15:30:00 INFO  [DefaultQuartzScheduler_Worker-2] goods.handler.SFDCHandler.execute(24) - SFDCHandler Completed!
+2016-12-13 15:30:27 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:30:56 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:31:20 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:31:50 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:32:16 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:32:45 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:33:10 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:33:35 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:34:01 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:34:30 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:34:57 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:35:24 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:35:52 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:36:18 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:36:46 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:37:16 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:37:39 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:38:09 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:38:34 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:39:01 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:39:30 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
+2016-12-13 15:39:58 DEBUG [DefaultQuartzScheduler_QuartzSchedulerThread] org.quartz.core.QuartzSchedulerThread.run(276) - batch acquisition of 0 triggers
